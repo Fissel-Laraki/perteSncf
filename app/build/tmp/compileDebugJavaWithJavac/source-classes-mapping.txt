@@ -1,0 +1,20 @@
+com/example/pertesncf/model/beans/Resultat.java
+ com.example.pertesncf.model.beans.Resultat
+com/example/pertesncf/controller/MainActivity.java
+ com.example.pertesncf.controller.MainActivity
+ com.example.pertesncf.controller.MainActivity$MonAT
+com/example/pertesncf/model/webservice/SncfDataWs.java
+ com.example.pertesncf.model.webservice.SncfDataWs
+com/example/pertesncf/BuildConfig.java
+ com.example.pertesncf.BuildConfig
+com/example/pertesncf/model/beans/Record.java
+ com.example.pertesncf.model.beans.Record
+com/example/pertesncf/controller/DetailActivity.java
+ com.example.pertesncf.controller.DetailActivity
+com/example/pertesncf/model/webservice/OkHttpUtils.java
+ com.example.pertesncf.model.webservice.OkHttpUtils
+com/example/pertesncf/model/beans/Fields.java
+ com.example.pertesncf.model.beans.Fields
+com/example/pertesncf/view/FieldAdapter.java
+ com.example.pertesncf.view.FieldAdapter
+ com.example.pertesncf.view.FieldAdapter$ViewHolder
